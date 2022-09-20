@@ -7,4 +7,4 @@ This repository includes an exercise on using javascript. The application can ge
 ![Web brief](./assets/img/pwg_sample.png "Web sample")
 
 ## Web_Page_Link
-https://hpyorange.github.io/challenge3/
+https://hpyorange.github.io/Password-Generator/
